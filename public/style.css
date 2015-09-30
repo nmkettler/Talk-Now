@@ -1,0 +1,37 @@
+body{
+	background-color: lightblue;
+}
+
+nav{
+	text-transform: uppercase;
+}
+navbar{
+	background-color: #00008B;
+}
+
+.navbar-default {
+	background-color: #00008B;
+}
+
+.navbar-default .navbar-brand {
+	color: #FDF5E6;
+}
+
+.navbar-default .navbar-nav > li > a{
+	color: #FDF5E6;
+}
+
+.navbar-default .navbar-nav > li > a:hover{
+	color: #B0E0E6;
+}
+
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus {
+    color: #555;
+    background-color: #E7E7E7;
+}
+
+.media-body > h4 > a{
+	color: #00008B;
+}
